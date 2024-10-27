@@ -146,7 +146,7 @@ class Post(models.Model):
     )
     edited_at = models.DateTimeField(
         verbose_name="Дата редактирования",
-        auto_now_add=True,
+        auto_now=True,
     )
     group = models.ForeignKey(
         Group,
@@ -187,7 +187,7 @@ class Comment(models.Model):
     )
     edited_at = models.DateTimeField(
         verbose_name="Дата редактирования",
-        auto_now_add=True,
+        auto_now=True,
     )
     author = models.ForeignKey(
         User,
