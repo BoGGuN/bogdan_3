@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69524b92-0620-40e6-adc7-8c9a0e780135" name="Changes" comment="Первичный коммит">
-      <change afterPath="$PROJECT_DIR$/bogdan_3/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bogdan_3/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bogdan_3/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bogdan_3/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bogdan_3_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bogdan_3_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bogdan_3_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bogdan_3_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729975117141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Первичный коммит">
+      <option name="closed" value="true" />
+      <created>1729988902977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729988902977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Первичный коммит">
+      <option name="closed" value="true" />
+      <created>1729988916338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729988916338</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
